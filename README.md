@@ -1,5 +1,8 @@
 # Explore-DC
 
-# Hi Lily
+// backend: Django
 
-# Hi Lina
+// front: React;
+
+// Exploring the city, museums, to-do (events, festivals,), tours, neighborhoods. 
+
